@@ -1,0 +1,3 @@
+CREATE USER admin WITH PASSWORD 'admin123';
+CREATE USER funcionario WITH PASSWORD 'func123';
+CREATE USER leitor WITH PASSWORD 'leitor123';

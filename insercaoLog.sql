@@ -1,0 +1,1 @@
+INSERT INTO log_acesso (usuario) VALUES (CURRENT_USER);
